@@ -14,6 +14,8 @@ public class GreaterNumber {
         System.out.println("Enter the second number: ");
         int num2 = sc.nextInt();
 
+        System.out.println("---".repeat(30));
+
         if(num1 > num2){
             System.out.println(num1+" is greater than "+num2);
         }else{
