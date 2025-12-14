@@ -77,7 +77,7 @@ public class ConnectionSetup {
 				se.printStackTrace();
 			} // end finally try
 		}
-		System.out.println("Thats all i had!");
+		System.out.println("That's all i had!");
 	}
 
 
