@@ -1,4 +1,4 @@
-package com.learning.Inheritance;
+package com.learning.inheritance;
 
 class A1{
     private String name;

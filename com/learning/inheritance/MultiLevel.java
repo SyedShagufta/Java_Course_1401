@@ -1,4 +1,4 @@
-package com.learning.Inheritance;
+package com.learning.inheritance;
 
 class Add{
     void add(int a, int b){

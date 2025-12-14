@@ -1,4 +1,4 @@
-package com.learning.ClassesAndObjects_02;
+package com.learning.classesAndObjects_02;
 
 class Demo {
     void data() {
